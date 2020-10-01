@@ -18,4 +18,3 @@ class TestSSWHW04(unittest.TestCase):
 
     def testlistOfRepositoriesWithCount(self):
         self.assertTrue("Repo: Angular-Testing Number of commits: 2" in listOfRepositoriesWithCount("staneja14"))
-        self.assertFalse("User-Login-in Number of commits: 2" in listOfRepositoriesWithCount("staneja14"))
