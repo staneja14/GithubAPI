@@ -1,0 +1,1 @@
+[![build status of master](https://travis-ci.org/staneja14/GithubAPI.svg?branch=master)](https://travis-ci.org/staneja14/GithubAPI)
