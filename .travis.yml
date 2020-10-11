@@ -2,7 +2,5 @@ language: python
 python:
  - "3.5"
 
-branches:
-  only:
-  - gh-pages
-  - /.*/
+ - python -m unittest MockAPI
+
